@@ -53,7 +53,7 @@ The goal was to modernize the reporting process and equip the leadership team wi
   - Used for data preparation and transformation within Power BI.
 
 ## 📝 Conclusion 
-MY live dashboard is [here] [here](https://app.powerbi.com/view?r=eyJrIjoiOGE5YmI3YzItYjA4Mi00ZDYwLWEyYmEtMGVlZWI5NTA2MzU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+MY live dashboard: [Click here](https://app.powerbi.com/view?r=eyJrIjoiOGE5YmI3YzItYjA4Mi00ZDYwLWEyYmEtMGVlZWI5NTA2MzU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 This project showcases the power of modern data analytics tools such as **Power BI** in transforming traditional reporting processes. By leveraging real-time data, the leadership at AtliQ is now empowered to make more informed decisions, driving both **increased gross margin** and **reduced operational expenses**.
 
